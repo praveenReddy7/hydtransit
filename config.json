@@ -4,6 +4,7 @@
   "activeJourneysEnabled": true,
   "adsEnabled": true,
   "maxTransferLimit": 2,
+  "showExploreTab": false,
   "latestVersion": "1.1",
   "appStoreURL": "https://apps.apple.com/app/idYOUR_APP_STORE_ID"
 }
