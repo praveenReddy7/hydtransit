@@ -5,6 +5,7 @@
   "adsEnabled": true,
   "maxTransferLimit": 2,
   "showExploreTab": false,
+  "journeySharingEnabled": true,
   "latestVersion": "1.0",
   "appStoreURL": "https://apps.apple.com/app/idYOUR_APP_STORE_ID"
 }
