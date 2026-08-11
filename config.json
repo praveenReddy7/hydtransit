@@ -2,7 +2,7 @@
   "detailedStopSearchEnabled": false,
   "transferJourneysEnabled": true,
   "activeJourneysEnabled": true,
-  "adsEnabled": true,
+  "adsEnabled": false,
   "maxTransferLimit": 2,
   "showExploreTab": false,
   "journeySharingEnabled": true,
