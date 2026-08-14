@@ -15,6 +15,6 @@
   "enabled": true,
   "title": "Route Diversion – MGBS",
   "message": "Buses affected due to Ganesh procession. Check alternate routes.",
-  "actionURL": "https://www.google.com"
+  "actionURL": null
 }
 }
