@@ -10,5 +10,11 @@
   "minSupportedVersion": "0.1",
   "nearMeSearchRadiusMetres": 500,
   "configCacheLifetimeSeconds": 300,
-  "appStoreURL": "https://apps.apple.com/app/idYOUR_APP_STORE_ID"
+  "appStoreURL": "https://apps.apple.com/app/idYOUR_APP_STORE_ID",
+  "announcement": {
+  "enabled": true,
+  "title": "Route Diversion – MGBS",
+  "message": "Buses affected due to Ganesh procession. Check alternate routes.",
+  "actionURL": "https://hydtransit.page.link/diversion"
+}
 }
