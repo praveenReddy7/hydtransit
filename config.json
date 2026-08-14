@@ -7,7 +7,7 @@
   "showExploreTab": false,
   "journeySharingEnabled": true,
   "latestVersion": "1.0",
-  "minSupportedVersion": "0.1",
+  "minSupportedVersion": "1.0",
   "nearMeSearchRadiusMetres": 500,
   "configCacheLifetimeSeconds": 300,
   "appStoreURL": "https://apps.apple.com/app/idYOUR_APP_STORE_ID",
