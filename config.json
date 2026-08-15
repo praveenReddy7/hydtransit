@@ -17,5 +17,6 @@
     "title": "Route Diversion – MGBS",
     "message": "Check alternate routes.",
     "actionURL": null
-  }
+  },
+  "activeJourneyMiniMapEnabled": true
 }
