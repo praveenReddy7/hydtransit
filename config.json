@@ -13,7 +13,7 @@
   "appStoreURL": "https://apps.apple.com/app/idYOUR_APP_STORE_ID",
   "announcement": {
     "id": "route_diversion",
-    "enabled": true,
+    "enabled": false,
     "title": "Route Diversion – MGBS",
     "message": "Check alternate routes.",
     "actionURL": null
