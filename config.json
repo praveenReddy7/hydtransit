@@ -6,7 +6,7 @@
   "maxTransferLimit": 2,
   "showExploreTab": false,
   "journeySharingEnabled": true,
-  "latestVersion": "1.0",
+  "latestVersion": "1.1",
   "minSupportedVersion": "1.0",
   "nearMeSearchRadiusMetres": 800,
   "configCacheLifetimeSeconds": 300,
