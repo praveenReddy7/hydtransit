@@ -21,5 +21,6 @@
   },
   "activeJourneyMiniMapEnabled": true,
   "subscriptionEnabled": true,
-  "proFeaturesEnabled": true
+  "proFeaturesEnabled": true,
+  "savedJourneysFreeLimit": 3
 }
