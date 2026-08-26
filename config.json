@@ -19,5 +19,7 @@
     "message": "Check alternate routes.",
     "actionURL": null
   },
-  "activeJourneyMiniMapEnabled": true
+  "activeJourneyMiniMapEnabled": true,
+  "subscriptionEnabled": true,
+  "proFeaturesEnabled": true
 }
