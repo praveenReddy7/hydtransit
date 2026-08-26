@@ -1,6 +1,5 @@
 {
   "detailedStopSearchEnabled": false,
-  "transferJourneysEnabled": true,
   "activeJourneysEnabled": true,
   "adsEnabled": false,
   "interstitialAdCooldownSeconds": 30, 
