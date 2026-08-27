@@ -26,5 +26,10 @@
   "savedJourneysFreeForAllLimit": 10,
   "favoriteJourneysFreeLimit": 2,
   "favoriteJourneysProLimit": 10,
-  "favoriteJourneysFreeForAllLimit": 4
+  "favoriteJourneysFreeForAllLimit": 4,
+  "paywallPromotion": {
+    "enabled": true,
+    "title": "Early Bird Offer",
+    "message": "Lowest price ever, thanks to our launch. Lock it in now."
+  }
 }
