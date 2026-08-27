@@ -23,6 +23,7 @@
   "proFeaturesEnabled": true,
   "savedJourneysFreeLimit": 3,
   "savedJourneysProLimit": 100,
+  "savedJourneysFreeForAllLimit": 10,
   "favoriteJourneysFreeLimit": 2,
   "favoriteJourneysProLimit": 10,
   "favoriteJourneysFreeForAllLimit": 4
