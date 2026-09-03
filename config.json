@@ -3,7 +3,7 @@
   "activeJourneysEnabled": true,
   "adsEnabled": false,
   "interstitialAdCooldownSeconds": 30, 
-  "maxTransferLimit": 2,
+  "maxTransferLimit": 1,
   "showExploreTab": false,
   "journeySharingEnabled": true,
   "latestVersion": "1.0",
