@@ -32,5 +32,6 @@
     "icon": "flame.fill",
     "title": "Early Bird Offer",
     "message": "Lowest price ever, thanks to our launch. Lock it in now."
-  }
+  },
+  "routeNumberSearchEnabled": true
 }
