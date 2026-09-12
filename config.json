@@ -1,7 +1,7 @@
 {
   "detailedStopSearchEnabled": false,
   "activeJourneysEnabled": true,
-  "adsEnabled": true,
+  "adsEnabled": false,
   "interstitialAdCooldownSeconds": 30, 
   "maxTransferLimit": 1,
   "showExploreTab": false,
