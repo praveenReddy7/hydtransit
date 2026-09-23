@@ -19,7 +19,7 @@
     "actionURL": null
   },
   "activeJourneyMiniMapEnabled": true,
-  "subscriptionEnabled": true,
+  "subscriptionEnabled": false,
   "proFeaturesEnabled": true,
   "savedJourneysFreeLimit": 3,
   "savedJourneysProLimit": 100,
