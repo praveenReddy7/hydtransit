@@ -43,22 +43,99 @@
     "skipTwoTransfersMinOptions": 8,
     "skipTwoTransfersMinRoutes": 3,
     "transferConnectionBufferSeconds": 300.0,
+    "maxConnectionWaitSeconds": 1800.0,
+    "extendedMaxConnectionWaitSeconds": 2700.0,
     "maxTransferWalkingMetres": 400.0,
     "nearbySourceMinSavingSeconds": 900.0,
+    "nearbySourceDirectToDirectMinSavingSeconds": 720.0,
+    "nearbySourceShortWalkMetres": 150.0,
+    "nearbySourceShortWalkMinSavingSeconds": 300.0,
+    "nearbySourceDirectUpgradeWalkMetres": 400.0,
+    "nearbySourceDirectUpgradeMaxLaterArrivalSeconds": 600.0,
     "detourMultiplier": 1.7,
     "directJourneyReserveSlots": 2,
     "journeyResultsInitialLimit": 5,
-    "journeyPoolLimit": 50
+    "journeyPoolLimit": 50,
+    "departureBandMinutes": 20,
+    "maximumDepartureBands": 3,
+    "unboundedSpreadWindowMinutes": 60,
+    "walkingSpeedMetresPerSecond": 1.2,
+    "walkingDetourFactor": 1.4,
+    "nearestStopRadiusMetres": 1200.0,
+    "searchTimeoutSeconds": 60,
+    "frequentHeadwayMinutes": 15,
+    "nearMeStopLimit": 4,
+    "nearMeDepartureWindowMinutes": 10,
+    "nearMeResultCacheSeconds": 300.0,
+    "nearMeExtendedSearchRadiusMetres": 2000.0,
+    "nearbyBoardingRadiusMetres": 300.0,
+    "nearbyDestinationRadiusMetres": 300.0,
+    "sameNamedDestinationRadiusMetres": 600.0,
+    "nearbySourceRecommendationRadiusMetres": 1000.0,
+    "nearbyEndpointSearchRadiusMetres": 500.0,
+    "sourceAreaRadiusMetres": 300.0,
+    "groupedRouteCardLimit": 3,
+    "groupedRouteInitialDepartures": 3,
+    "costWeights": {
+      "balanced": {
+        "ride": 1.0,
+        "initialWait": 1.0,
+        "transferWait": 1.3,
+        "walk": 1.5,
+        "transferPenaltyMinutes": 12.0
+      },
+      "fastest": {
+        "ride": 1.0,
+        "initialWait": 1.0,
+        "transferWait": 1.0,
+        "walk": 1.0,
+        "transferPenaltyMinutes": 0.0
+      },
+      "fewerTransfers": {
+        "ride": 1.0,
+        "initialWait": 0.8,
+        "transferWait": 1.5,
+        "walk": 1.2,
+        "transferPenaltyMinutes": 30.0
+      },
+      "lessWalking": {
+        "ride": 1.0,
+        "initialWait": 1.0,
+        "transferWait": 1.3,
+        "walk": 3.0,
+        "transferPenaltyMinutes": 15.0
+      }
+    },
+    "detour": {
+      "materialDurationSeconds": 600.0,
+      "materialDistanceMetres": 4000.0,
+      "directCrowFliesMultiplier": 3.0,
+      "directCrowFliesExcessMetres": 6000.0,
+      "transferCrowFliesMultiplier": 2.0,
+      "longDistanceTransferCrowFliesMultiplier": 1.6,
+      "longDistanceThresholdMetres": 15000.0,
+      "transferCrowFliesExcessMetres": 10000.0,
+      "crowFliesSanityThresholdMetres": 500.0,
+      "transferBacktrackFraction": 0.15,
+      "transferBacktrackMetres": 750.0,
+      "transferOvershootMetres": 500.0,
+      "wrongWayMetres": 250.0
+    }
   },
   "trackingTuning": {
     "triggerRadiusMetres": 200.0,
     "approachRadiusMetres": 300.0,
     "maxAccuracyMetres": 100.0,
-    "liveActivityStalenessMinutes": 15
+    "liveActivityStalenessMinutes": 15,
+    "locationDistanceFilterMetres": 50.0,
+    "staleJourneyDurationMultiplier": 2.0,
+    "staleJourneyMinimumExtraMinutes": 30,
+    "legSwapSearchRadiusMetres": 200.0,
+    "legSwapMaximumResults": 10,
+    "legSwapMinimumConnectionSeconds": 120.0
   },
   "engagementTuning": {
     "appReviewMinPositiveEvents": 2,
-    "appReviewCooldownDays": 60,
-    "maxWalkingGuidanceMetres": 1200.0
+    "appReviewCooldownDays": 60
   }
 }
