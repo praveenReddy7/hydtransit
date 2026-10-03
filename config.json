@@ -37,6 +37,9 @@
   "journeyOptionsIssueReportingEnabled": true,
   "journeyDetailsIssueReportingEnabled": true,
   "activeJourneyIssueReportingEnabled": true,
+  "getOffRemindersEnabled": true,
+  "liveActivitiesEnabled": true,
+  "legSwapEnabled": true,
   "featureRolloutShares": {},
   "routingTuning": {
     "skipTwoTransfersOptimizationEnabled": true,
