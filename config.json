@@ -119,7 +119,10 @@
       "transferBacktrackFraction": 0.15,
       "transferBacktrackMetres": 750.0,
       "transferOvershootMetres": 500.0,
-      "wrongWayMetres": 250.0
+      "wrongWayMetres": 250.0,
+      "shortTripThresholdMetres": 3000.0,
+      "shortTripMinimumExcessMetres": 2000.0,
+      "shortTripExcessMultiplier": 2.0,
     }
   },
   "trackingTuning": {
