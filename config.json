@@ -122,7 +122,7 @@
       "wrongWayMetres": 250.0,
       "shortTripThresholdMetres": 3000.0,
       "shortTripMinimumExcessMetres": 2000.0,
-      "shortTripExcessMultiplier": 2.0,
+      "shortTripExcessMultiplier": 2.0
     }
   },
   "trackingTuning": {
