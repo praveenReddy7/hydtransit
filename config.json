@@ -30,8 +30,8 @@
   "paywallPromotion": {
     "enabled": true,
     "icon": "flame.fill",
-    "title": "Early Bird Offer",
-    "message": "Lowest price ever, thanks to our launch. Lock it in now."
+    "title": "Launch Offer",
+    "message": "Thanks for supporting HydTransit from day one."
   },
   "routeNumberSearchEnabled": true,
   "journeyOptionsIssueReportingEnabled": true,
