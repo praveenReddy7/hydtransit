@@ -80,6 +80,7 @@
     "sourceAreaRadiusMetres": 300.0,
     "groupedRouteCardLimit": 3,
     "groupedRouteInitialDepartures": 3,
+    "nearMeBackgroundChecksEnabled": false,
     "costWeights": {
       "balanced": {
         "ride": 1.0,
