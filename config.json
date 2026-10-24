@@ -14,7 +14,7 @@
   "announcement": {
     "id": "festive_dasara_2026",
     "type": "festive",
-    "enabled": true,
+    "enabled": false,
     "title": "Happy Dasara, Hyderabad!",
     "message": "Wishing you a joyful festival. Plan your trips with HydTransit.",
     "actionURL": null
