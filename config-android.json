@@ -17,7 +17,7 @@
   "latestVersion": null,
   "storeURL": "https://play.google.com/store/apps/details?id=com.apps.hydtransit",
   "configCacheLifetimeSeconds": 21600,
-  "nearMeSearchRadiusMetres": 800,
+  "nearMeSearchRadiusMetres": 1000,
   "announcement": {
     "id": "festive_dasara_2026",
     "type": "festive",
