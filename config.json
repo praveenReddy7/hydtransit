@@ -14,7 +14,7 @@
   "announcement": {
     "id": "diwali-2026",
     "type": "festive",
-    "enabled": true,
+    "enabled": false,
     "title": "Happy Diwali",
     "message": "Wishing you a bright and joyful Diwali. Travel safe while you visit family and friends.",
     "actionURL": null
