@@ -71,7 +71,10 @@
     "nearbyEndpointSearchRadiusMetres": 500.0,
     "sourceAreaRadiusMetres": 300.0,
     "groupedRouteCardLimit": 3,
-    "groupedRouteInitialDepartures": 3
+    "groupedRouteInitialDepartures": 3,
+    "detour": {
+      "longDistanceTransferCrowFliesMultiplier": 2.0
+    }
   },
   "trackingTuning": {
     "triggerRadiusMetres": 200.0,
