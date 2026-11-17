@@ -1,0 +1,61 @@
+{
+  "activeJourneyIssueReportingEnabled" : true,
+  "activeJourneyMiniMapEnabled" : true,
+  "activeJourneysEnabled" : true,
+  "adsEnabled" : false,
+  "announcement" : {
+    "actionURL" : null,
+    "enabled" : false,
+    "id" : "diwali-2026",
+    "message" : "Wishing you a bright and joyful Diwali. Travel safe while you visit family and friends.",
+    "title" : "Happy Diwali",
+    "type" : "festive"
+  },
+  "appStoreURL" : "https://apps.apple.com/app/id6809923523",
+  "configCacheLifetimeSeconds" : 21600,
+  "detailedStopSearchEnabled" : false,
+  "engagementTuning" : {
+    "appReviewCooldownDays" : 60,
+    "appReviewMinPositiveEvents" : 2
+  },
+  "favoriteJourneysFreeForAllLimit" : 4,
+  "favoriteJourneysFreeLimit" : 2,
+  "favoriteJourneysProLimit" : 10,
+  "featureRolloutShares" : {
+
+  },
+  "getOffRemindersEnabled" : true,
+  "interstitialAdCooldownSeconds" : 30,
+  "journeyDetailsIssueReportingEnabled" : true,
+  "journeyOptionsIssueReportingEnabled" : true,
+  "journeySharingEnabled" : true,
+  "latestVersion" : "1.3",
+  "legSwapEnabled" : true,
+  "liveActivitiesEnabled" : true,
+  "maxTransferLimit" : 2,
+  "minSupportedVersion" : "1.0",
+  "nearMeBackgroundChecksEnabled" : false,
+  "nearMeSearchRadiusMetres" : 1000,
+  "paywallPromotion" : {
+    "enabled" : true,
+    "icon" : "flame.fill",
+    "message" : "Thanks for supporting HydTransit from day one.",
+    "title" : "Launch Offer"
+  },
+  "proFeaturesEnabled" : true,
+  "routeNumberSearchEnabled" : true,
+  "routingTuning" : {
+    "detour" : {
+      "longDistanceTransferCrowFliesMultiplier" : 2
+    },
+    "detourMultiplier" : 1.7,
+    "skipTwoTransfersMinOptions" : 20
+  },
+  "savedJourneysFreeForAllLimit" : 10,
+  "savedJourneysFreeLimit" : 3,
+  "savedJourneysProLimit" : 100,
+  "showExploreTab" : false,
+  "subscriptionEnabled" : false,
+  "t" : "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",
+  "tv" : 1
+}

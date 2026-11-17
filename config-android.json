@@ -1,0 +1,47 @@
+{
+  "activeJourneyIssueReportingEnabled" : true,
+  "activeJourneyMiniMapEnabled" : true,
+  "activeJourneysEnabled" : true,
+  "announcement" : {
+    "actionURL" : null,
+    "enabled" : false,
+    "id" : "diwali-2026",
+    "message" : "Wishing you a bright and joyful Diwali. Travel safe while you visit family and friends.",
+    "title" : "Happy Diwali",
+    "type" : "festive"
+  },
+  "configCacheLifetimeSeconds" : 21600,
+  "detailedStopSearchEnabled" : false,
+  "engagementTuning" : {
+    "appReviewCooldownDays" : 60,
+    "appReviewMinPositiveEvents" : 2
+  },
+  "favoriteJourneysFreeForAllLimit" : 4,
+  "featureRolloutShares" : {
+
+  },
+  "getOffRemindersEnabled" : true,
+  "journeyDetailsIssueReportingEnabled" : true,
+  "journeyOptionsIssueReportingEnabled" : true,
+  "journeySharingEnabled" : true,
+  "latestVersion" : null,
+  "legSwapEnabled" : true,
+  "liveActivitiesEnabled" : true,
+  "maxTransferLimit" : 2,
+  "minSupportedVersion" : null,
+  "nearMeBackgroundChecksEnabled" : false,
+  "nearMeSearchRadiusMetres" : 1000,
+  "routeNumberSearchEnabled" : true,
+  "routingTuning" : {
+    "detour" : {
+      "longDistanceTransferCrowFliesMultiplier" : 2
+    },
+    "detourMultiplier" : 1.7,
+    "skipTwoTransfersMinOptions" : 20
+  },
+  "savedJourneysFreeForAllLimit" : 10,
+  "showExploreTab" : false,
+  "storeURL" : "https://play.google.com/store/apps/details?id=com.apps.hydtransit",
+  "t" : "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",
+  "tv" : 1
+}
