@@ -29,7 +29,7 @@
   "journeyDetailsIssueReportingEnabled" : true,
   "journeyOptionsIssueReportingEnabled" : true,
   "journeySharingEnabled" : true,
-  "latestVersion" : "1.3",
+  "latestVersion" : "1.4",
   "legSwapEnabled" : true,
   "liveActivitiesEnabled" : true,
   "maxTransferLimit" : 2,
